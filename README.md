@@ -1,6 +1,6 @@
 # HF News Aggregator
 
-Go news aggregator that continuously streams news from multiple news sources/APIS, categorizes & summarizes items with AI, and sends personalized alerts via Telegram based on user preferences.
+Go news aggregator that continuously streams news from multiple news sources/APIs, categorizes & summarizes items with AI, and sends personalized alerts via Telegram based on user preferences.
 
 ## Features
 
