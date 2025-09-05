@@ -31,6 +31,7 @@ CACHE_RETENTION=24h
 SERVER_PORT=8080
 ```
 **Note**: Keep batch size on the low end or run the risk of the model's context window not being able to handle as well. There are diminishing returns here.
+
 **Note 2**: When hosting change server port appropriately. In a future update I will add in usage tracking and restrictions so you can increase AI inference interval as costs rack up.
 
 ## Usage
