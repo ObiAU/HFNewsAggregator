@@ -4,13 +4,13 @@ Go news aggregator that continuously streams news from multiple news sources/API
 
 ## Features
 
-- Multi-source news ingestion (NewsAPI, TreeNews, CryptoPani, )
+- Multi-source news ingestion (NewsAPI, TreeNews, CryptoPanic, and more ... configurable)
 - 24-hour cache with deduplication
 - Telegram bot with configurable alerts
 - Continuous streaming and processing
 - Intel AI Agent for categorization and tagging
 - Validator Agent for AI validation
-- Memory cleanup and garbage collection (TTL based removal and automatic cleanup in a background goroutine)
+- Memory cleanup (TTL based removal and eviction goroutines)
 
 ## Setup
 
