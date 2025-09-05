@@ -34,7 +34,7 @@ SERVER_PORT=8080
 
 **Note 2**: When hosting this tool, change `SERVER_PORT` appropriately. In a future update I will add in usage tracking and restrictions so you can increase AI inference interval as costs rack up.
 
-**Final Note**: I will likely introduce Telegram polling as an option down the line, or as a fallback. For now it is Webhook only. If it crashes check your public endpoint. Also check the SSL certificate in your pod (I have found issues with this)
+**Final Note**: I will introduce Telegram polling as an option down the line - for now it is Webhook only. If it crashes check your public endpoint. Also check the SSL certificate in your pod (I have found issues with this)
 
 ## Usage
 
